@@ -1,2 +1,2 @@
 # File_Manager
-Created with CodeSandbox
+You can create folder, folder inside folder and navigate between those.
